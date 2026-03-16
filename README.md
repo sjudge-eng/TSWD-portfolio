@@ -14,18 +14,14 @@ This is my public portfolio for Telling Stories with Data at CMU!  Here's where 
 Hi, my name is Shane and I'm in the MISM-12 program with a concentration in IT Strategy & Management. I have an educational background in finance and entrepreneurial management and a professional background in cloud networking. I am hoping to pick up a strategy-based role upon graduation in August of this year!
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+At a high level, I want to learn about the general relationship between raw data and bringing it to life through a graphic. I hope that we will also touch on the psychological, and regional, implications that should be thought of during the creation of the graphic. In all, I'm hoping that the course will touch on a few additional areas of consideration:
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
-
+1. Dos and Donts when putting together graphics
+2. How to delienate between presenting too much information and the right amount
+3. The impact of leadership and their opinions on what is being presented
+4. What useful feedback looks like when involving others
+5. How to get in the mind of your target audience
+  
 # Portfolio
 
 # Examples
