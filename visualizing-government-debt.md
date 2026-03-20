@@ -1,7 +1,5 @@
 # Visualizing Government Debt
 
-Source: OECD general government debt data.
-
 <div class='tableauPlaceholder' id='viz1774042456164' style='position: relative'>
   <noscript>
     <a href='#'>
