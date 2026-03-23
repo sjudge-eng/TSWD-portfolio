@@ -25,6 +25,7 @@ At a high level, I want to learn about the general relationship between raw data
 # Portfolio
 
 # Examples
+[Trust in News Sources Example](trust-in-news-example.md)
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt?refresh=1)
