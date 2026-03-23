@@ -24,9 +24,8 @@ At a high level, I want to learn about the general relationship between raw data
   
 # Portfolio
 
-# Examples
-[Trust in News Sources Example](trust-in-news-example.md)
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
+# In Class Examples
+1. [Trust in News Sources Example](trust-in-news-example.md) 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt?refresh=1)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
