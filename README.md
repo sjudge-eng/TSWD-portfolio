@@ -27,8 +27,9 @@ At a high level, I want to learn about the general relationship between raw data
 # In Class Examples
 1. [Trust in News Sources Example](trust-in-news-example.md) 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt?refresh=1)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+# Assignments 
+Assignment 1 [Visualizing Government Debt](visualizing-government-debt?refresh=1)
+   * What I wanted to show was the contrast between the country doing the best at reducing/managing their general debt and the country doing the worst at managing said debt. This specific desire is subjective in deciding these measures, and it does gloss over many potential explanations for said that may be beyond the respective country's control. That aside, I found that Japan (worst) and Israel (best) fit these subjective definitions well. I selected Israel instead of say Estonia (bottom line on the graph) as evidenced by my visualization title: I wanted to contrast debt management and show that Israel is potentially a country that Japan could model off of. In actuality, I have no idea if this is something Japan could do in real life, but I did find the stark decline for Israel from 2011 - 2018 to be quite fascinating, specifically when compared to Japan who was increasing YoY during that period.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
