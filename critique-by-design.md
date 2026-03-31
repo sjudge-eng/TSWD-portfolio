@@ -58,7 +58,9 @@ Probing Questions:
 - Is there anything you would change or do differently?
 
 Results: 
+
 Interview 1 Profile: Mechanical engineering PhD student
+
 Interview 2 Profile: MISM-BIDA student
 
 | Question | Interview 1 | Interview 2 |
@@ -69,6 +71,7 @@ Interview 2 Profile: MISM-BIDA student
 | Is there anything you would change or do differently? | They recommended adding important dates, de-emphasizing the current colors because the gold was very prominent, and potentially making the colors more opaque overall. They also recommended exploring different chart styles to see whether another would be better suited for this type of comparison. | They said the current chart type was confusing and recommended using a line graph instead. They also recommended removing the percentages because they found them confusing overall. |
 
 Synthesis: 
+
 Based on the information provdided from the two interviews, the main point of confusion centered around the actual cahrt type chosen. Both interviewees felt that the chosen chart type made it difficult to read and they felt that the point could be presented in a cleaner format, potentially with a line graph. There was also talk about how the base meaning of what it was I was trying to convey (the positive impact of renewable energy sources) was being lost. One interviewee liked that you could see a trend of increasing energy usage, but that did not mean that a bar graph was still the proper chart type for conveying this information. After these discussions, I felt that I had enough to redesign my current implementation and make it a more clean, and cohesive visualization.
 
 ## Step five: build the solution
