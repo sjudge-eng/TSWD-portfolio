@@ -16,11 +16,17 @@ It was this deep learning curve that I had to go through just to understand what
 Below is a breakdown of the Google form that was completed with regard to the above visualization.
 
 Usefulness: 5/10
+
 Completeness: 8/10
+
 Perceptibility: 2/10
+
 Truthfulness: 8/10
+
 Intuitiveness: 2/10
+
 Aesthetics: 7/10
+
 Engagement: 7/10
 
 Observations:
