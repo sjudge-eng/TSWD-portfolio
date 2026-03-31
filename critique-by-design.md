@@ -4,10 +4,6 @@
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
-
-Here's an example of how to add an image to my portfolio.  
-
 ![Original Data Visualization](critique-source-image.jpg)
 
 > Visualization by The Energy Institute from <a href="https://ourworldindata.org/energy-production-consumption#how-much-energy-does-the-world-consume">Our World in Data</a>
