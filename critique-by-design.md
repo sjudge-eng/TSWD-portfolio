@@ -43,38 +43,33 @@ My main focus on this redesign will be two fold: I really want to adjust the nam
 
 ## Step three: Sketch a solution
 
-
+![Solution Sketch](solution-sketch.jpg)
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
+Probing Questions: 
 
-Questions to ask (modify these for your own interviews): 
+- Can you tell me what you believe you are looking at?
 
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
+- What is it about this graphic that stands out to you?
 
 - Who do you think is the intended audience for this?
 
 - Is there anything you would change or do differently?
 
 Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
+Interview 1 Profile: Mechanical engineering PhD student
+Interview 2 Profile: MISM-BIDA student
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Can you tell me what you believe you are looking at? | They understood the purpose of the graphic and the meaning it was attempting to convey. | They thought it was showing how much renewable energy is currently used in the world. |
+| What is it about this graphic that stands out to you? | They noted general formatting difficulties, including seeing the percentage, identifying the year, and questioning whether the y-axis was useful. | The yellow bars at the bottom stood out, along with the overall growth of the bars. They found the percentages difficult to understand because the bars would get larger while the relative percentages stayed the same. |
+| Who do you think is the intended audience for this? | They thought it was intended for academics or politicians. | They thought it was intended for people interested in energy-related topics. |
+| Is there anything you would change or do differently? | They recommended adding important dates, de-emphasizing the current colors because the gold was very prominent, and potentially making the colors more opaque overall. They also recommended exploring different chart styles to see whether another would be better suited for this type of comparison. | They said the current chart type was confusing and recommended using a line graph instead. They also recommended removing the percentages because they found them confusing overall. |
 
 Synthesis: 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+Based on the information provdided from the two interviews, the main point of confusion centered around the actual cahrt type chosen. Both interviewees felt that the chosen chart type made it difficult to read and they felt that the point could be presented in a cleaner format, potentially with a line graph. There was also talk about how the base meaning of what it was I was trying to convey (the positive impact of renewable energy sources) was being lost. One interviewee liked that you could see a trend of increasing energy usage, but that did not mean that a bar graph was still the proper chart type for conveying this information. After these discussions, I felt that I had enough to redesign my current implementation and make it a more clean, and cohesive visualization.
 
 ## Step five: build the solution
 
