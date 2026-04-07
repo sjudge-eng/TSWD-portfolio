@@ -32,7 +32,7 @@ The final story will argue that pedestrian safety in Pittsburgh is not just a ma
 
 Below is an initial rough sketch of my anticipated visualization. This map shows pedestrian crash density in Pittsburgh over a 5 year period (2020 -2024) and is intended to help identify areas where crash risk appears to be concentrated. In later versions of the project, I plan to refine this view and pair it with additional charts that help explain what street conditions may be associated with these hotspots.
 
-![Rough sketch of pedestrian crash hotspots in Pittsburgh](pittsburgh_pedestrian_crash_sketch.png)
+![Rough sketch of pedestrian crash hotspots in Pittsburgh](pittsburgh_pedestrian_crash_sketch.jpg)
 
 # The data
 
