@@ -13,18 +13,23 @@ I selected this topic in part because of the contrast I have personally experien
 ## Project Structure
 
 Setup
+
 Walking in Pittsburgh often feels unpredictable and unsafe, especially when compared to other places I have lived. That personal experience raises a larger question: does public crash data support the idea that pedestrians face heightened risk in certain parts of the city, and if so, where is that risk concentrated?
 
 Conflict
+
 This project begins with the idea that pedestrian risk is not evenly distributed across Pittsburgh. Some locations appear to experience more pedestrian-involved crashes than others, suggesting that certain street environments may create more dangerous conditions for pedestrians.
 
 Investigation
+
 To explore this pattern, the project will examine Pittsburgh pedestrian crash records in order to identify a small set of street-condition variables and general locations associated with heightened pedestrian risk. These variables may include factors such as intersection type, presence of signals, speed limit, and lighting conditions. As an extension of this analysis, I may also examine especially unusual or high-crash locations more closely to consider what physical or environmental factors may be contributing to those events.
 
 Resolution
+
 By identifying where pedestrian crash hotspots appear and what those locations have in common, the project has two main goals. First, it aims to show that pedestrian risk is shaped not only by driver behavior, but also by location-specific roadway and intersection conditions. Second, it aims to help readers better understand what kinds of environments appear to create greater pedestrian dangers.
 
 Putting it all together
+
 The final story will argue that pedestrian safety in Pittsburgh is not just a matter of individual driver behavior, nor simply a byproduct of general city conditions, but is closely tied to street design and location-based infrastructure. Looking at crash patterns can help reveal where these risks are concentrated and what factors may be contributing to them. The narrative will introduce the problem, use visualizations to make the conflict clear and understandable, investigate patterns in the data, and then bring those findings together into a cohesive explanation of where pedestrian risk appears highest in Pittsburgh.
 
 ## Initial sketches
