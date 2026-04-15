@@ -9,21 +9,27 @@ This project is being developed directly in Shorthand, and thus is the living st
 The current storyboard flow is as follows:
 
 Hook/opener
+
 A large introductory card that establishes the scope of the problem and helps to enable readers (specifically those in Pittsburgh) to easily relate.
 
 Comparison case
+
 A comparison of the problem to another city helps to do two things: it contextualizes the problem in a comparable way and it helps to explain why this problem is of interest to me (as I used to live in Bellevue, WA).
 
 Where crashes cluster
+
 A hotspot map and grouped-hotspot view showing that the problem of interest is not evenly distributed across the region being studied. 
 
 Why these places matter
+
 Creating some potential explanations for why these hotspots exist, what could be driving their continued survivability, and to potentially give ideas of exploration for leader to potentially address.
 
 City Response
+
 Helping to show the reader that this problem extends beyond just personal opinion and that it has grown large enough to garner city attention. This helps to further cement the existence and seriousness of the problem in question.
 
 Synthesis/takeaway
+
 This is going to be a slide that helps to both capture everything shown to the reader in one simple to understand card, and show them where things go from here. The main goal of this story is to help readers understand that pedestrian crash risk in Pittsburgh is concentrated in recurring corridors and intersections, and that the city has increasingly responded with targeted safety action.
 
 [External Link to Shorthand Preview](https://preview.shorthand.com/n2UaNlREGKAtlTbi)
