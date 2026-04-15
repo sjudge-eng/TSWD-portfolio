@@ -37,14 +37,12 @@ This is going to be a slide that helps to both capture everything shown to the r
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
 
 The primary audience is a general Pittsburgh reader interested in public safety, transportation, neighborhood safety, and city planning. A secondary audience includes people who regularly move through the highlighted corridors, such as students, transit riders, drivers, and people who work downtown or in Oakland.
 
 My approach to identifying representative individuals is to recruit people who reflect this audience, and who may generally benefit from such information. Thus far, the individuals interviewed have been two international students and one professor, all of whom attend/work out of the Pittsburgh/Oakland area, making their input incredibly valuable in identifying strengths and weaknesses in story flow.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
 The goal is the interview protocol is to test whether the readers can follow the narrative, interpret the major visualizations correctly, understand the rationale for the comparison to Washington, and leave with the intended takeaway: That pedestrian crash risk in Pittsburgh is both substantial and limited to a number of high-saturation corridors. 
 
@@ -63,7 +61,7 @@ Interview 1 = International student in MSPPM
 
 Interview 2 = International student in MISM
 
-Interview 3 = Professional/academic with extensive experience in data visualizations
+Interview 3 = Professional/academic
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -108,5 +106,4 @@ With these identified changes, and general interview-based discussions, I have s
 [WA Collision Analysis Tool](https://collisionanalysistool.wsp.wa.gov/Query/SearchCriteria)
 
 ## AI acknowledgements
-AI has been instrumental in bringing this story to life. AI has helped with idea generation, specifically on what aspects of my current story may be lacking and how the interview responses identify areas of improvement. AI also has been very helpful in getting the most out of Tableau, I do not have much experience with this tool so with AI I can tell it what image/visualization I want to express and AI instructs me on exactly what measures to put where. AI has also been very helpful in the obtaining of very niche information, specifically the WA Collision Analysis tool.
-
+AI has been instrumental in bringing this story to life. AI has helped with idea generation, specifically on what aspects of my current story may be lacking and how the interview responses identify areas of improvement. AI also has been very helpful in getting the most out of Tableau, I do not have much experience with this tool so with AI I can tell it what image/visualization I want to express and AI instructs me on exactly what measures to put where. AI has also been very helpful in the obtaining of very niche information, specifically the WA Collision Analysis tool as well as some of the articles detailing the Mayor's words on pedestrian safety.
