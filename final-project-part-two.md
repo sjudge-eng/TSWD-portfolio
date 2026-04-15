@@ -55,7 +55,9 @@ The goal is the interview protocol is to test whether the readers can follow the
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Interview 1 = International student in MSPPM
+
 Interview 2 = International student in MISM
+
 Interview 3 = Professional/academic with extensive experience in data visualizations
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
