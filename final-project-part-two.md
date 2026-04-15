@@ -3,7 +3,9 @@
 # Wireframes / storyboards
 > Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-This project is being developed directly in Shorthand, and thus is the living storyboard that will eventually migrate into the full story. The current structure is built around a reader journey from scale, to spatial concentration, to local explanation, and civic response. 
+This project is being developed directly in Shorthand, and thus is the living storyboard that will eventually migrate into the full story. The current structure is built around a reader journey from scale, to spatial concentration, to local explanation, and civic response. An initial heat map visualization (referenced throughout this part-two) is seen below:
+
+![Heat Map](heatmap.jpg)
 
 The current storyboard flow is as follows:
 
@@ -79,14 +81,23 @@ With these identified changes, and general interview-based discussions, I have s
 
 ## References
 [Western Pennsylvania Regional Data Center](https://data.wprdc.org/dataset/allegheny-county-crash-data/resource/2c13021f-74a9-4289-a1e5-fe0472c89881)
+
 [US Census Bureau](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html)
+
 [Pedestrian Safety Action Plan](https://www.pittsburghpa.gov/Business-Development/Mobility-and-Infrastructure/Plans/Pedestrian-Safety-Action-Plan)
+
 [Pittsburgh Vision Zero Plan](https://engage.pittsburghpa.gov/vision-zero)
+
 [2024 Announcement By Pittsburgh Mayor](https://www.unionprogress.com/2024/03/05/enough-is-enough-pittsburgh-joins-international-effort-to-reduce-serious-crashes/)
+
 [Port Authority Bus Route](https://www.rideprt.org/siteassets/schedule-adjustments/february-2024/28x.pdf)
+
 [UPitt Tour Information](https://www.tour.pitt.edu/tour/forbes-avenue)
+
 [CMU Shuttle Information](https://www.cmu.edu/transportation/transport/shuttle.html)
+
 [Free-Use Public Images, Mapillary](https://www.mapillary.com/app/)
+
 [WA Collision Analysis Tool](https://collisionanalysistool.wsp.wa.gov/Query/SearchCriteria)
 
 ## AI acknowledgements
