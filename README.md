@@ -24,7 +24,7 @@ At a high level, I want to learn about the general relationship between raw data
   
 # Portfolio
 
-# In Class Examples
+# Data Viz Examples
 1. [Trust in News Sources Example](trust-in-news-example.md) 
 
 # Assignments 
