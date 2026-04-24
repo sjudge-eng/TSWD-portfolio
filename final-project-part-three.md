@@ -17,12 +17,17 @@ Several key design decisions were made throughout the development of this projec
 ## References
 All citations are provided in-line throughout the Shorthand presentation. The only addition I am making to references are specific callouts for the images taken at the three intersections that were included in the presentation. References were listed on the images themselves, but upon publishing the story, these references did not stay on the image like the Unsplash ones do. To counter that, I am including specific references below, as well as including a reference mention in the Shorthand references page for each respective author of each image. 
 
+Image Provided by lvl5 on Mapillary
 
-![Heat Map](heatmap.jpg)
+![lvl5 Reference](lvl5 Reference.jpg)
 
-![Heat Map](heatmap.jpg)
+Image Provided by filipb on Mapillary
 
-![Heat Map](heatmap.jpg)
+![filipb Reference](filipb Reference.jpg)
+
+Image Provided by abf on Mapillary
+
+![abf Reference](abf Reference.jpg)
 
 
 ## AI acknowledgements
