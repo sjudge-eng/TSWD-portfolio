@@ -1,4 +1,4 @@
-| [home page](https://sjudge-eng.github.io/TSWD-portfolio/) | [data viz examples](https://sjudge-eng.github.io/TSWD-portfolio/#data-viz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://sjudge-eng.github.io/TSWD-portfolio/) | [data viz examples](https://sjudge-eng.github.io/TSWD-portfolio/#portfolio) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # TSWD-portfolio-templates
 These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
@@ -24,18 +24,17 @@ At a high level, I want to learn about the general relationship between raw data
   
 # Portfolio
 
-# Data Viz Examples
-1. [Trust in News Sources Example](trust-in-news-example.md) 
+## Assignments 
 
-# Assignments 
-Assignment 1 [Visualizing Government Debt](visualizing-government-debt?refresh=1)
+### Assignment 1 
+[Visualizing Government Debt](visualizing-government-debt?refresh=1)
    * What I wanted to show was the contrast between the country doing the best at reducing/managing their general debt and the country doing the worst at managing said debt. This specific desire is subjective in deciding these measures, and it does gloss over many potential explanations for said that may be beyond the respective country's control. That aside, I found that Japan (worst) and Israel (best) fit these subjective definitions well. I selected Israel instead of say Estonia (bottom line on the graph) as evidenced by my visualization title: I wanted to contrast debt management and show that Israel is potentially a country that Japan could model off of. In actuality, I have no idea if this is something Japan could do in real life, but I did find the stark decline for Israel from 2011 - 2018 to be quite fascinating, specifically when compared to Japan who was increasing YoY during that period.
 
-## Assignment 3&4:
+### Assignment 3&4:
 [Critique by Design](critique-by-design)
    * This page walks through a full critique-by-design process for redesigning an energy visualization from Our World in Data. It begins by explaining why the original chart was confusing, especially because it used the “substitution method” to compare renewable and non-renewable energy in a way that was not immediately clear to the reader. The page then evaluates the original visualization, identifies its likely audience and main weaknesses, sketches a redesign, tests that redesign with two interviewees, and uses their feedback to produce a final version. Overall, the page shows how the redesign process moved from confusion and critique toward a cleaner visual focused on the main takeaway: renewable energy is increasingly offsetting the need for non-renewable energy. 
 
-## Final project
+### Final project
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
