@@ -19,15 +19,15 @@ All citations are provided in-line throughout the Shorthand presentation. The on
 
 Image Provided by lvl5 on Mapillary
 
-![lvl5 Reference](lvl5-Reference.jpeg)
+![lvl5 Reference](lvl5-Reference.jpg)
 
 Image Provided by filipb on Mapillary
 
-![filipb Reference](filipb-Reference.jpeg)
+![filipb Reference](filipb-Reference.jpg)
 
 Image Provided by abf on Mapillary
 
-![abf Reference](abf-Reference.jpeg)
+![abf Reference](abf-Reference.jpg)
 
 
 ## AI acknowledgements
